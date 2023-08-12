@@ -5,7 +5,7 @@
 
 - 🔭 Actualmente estoy trabajando en **Desarrollador freelance en Fiverr**
 
-- 👨‍💻 Todos mis proyectos están disponibles en [davidlynndp.github.io/personal-website/](davidlynndp.github.io/personal-website/)
+- 👨‍💻 Todos mis proyectos están disponibles en [https://davidlynndp.github.io/personal-website/](https://davidlynndp.github.io/personal-website/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
