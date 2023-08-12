@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/davidlevox" target="blank"><img src="https://img.shields.io/twitter/follow/davidlevox?logo=twitter&style=for-the-badge" alt="davidlevox" /></a> </p>
 
-- 🔭 Actualmente estoy trabajando en **Desarrollador freelance en Fiverr**
+- 🔭 Actualmente estoy trabajando como **Desarrollador freelance en Fiverr**
 
 - 👨‍💻 Todos mis proyectos están disponibles [aquí](https://davidlynndp.github.io/personal-website/)
 
